@@ -1,6 +1,7 @@
 #ifndef OPEN_DRAIN_H
 #define OPEN_DRAIN_H
-#include "resource/ODRegister32.h"
+
+#include "resource/ODRegister36.h"
 namespace OpenDrain{
 
     template<class REST>
